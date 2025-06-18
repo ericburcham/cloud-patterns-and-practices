@@ -1,3 +1,48 @@
+# ----------------------------------------------------------------------------------------------------------------------
+# Office temporary files
+# Microsoft Office temporary files
+~$*
+*.tmp
+*.bak
+*.wbk
+*.asd
+*.lnk
+
+# Word
+*.docx~
+*.docm~
+*.dotx~
+*.dotm~
+
+# Excel
+*.xlsx~
+*.xlsm~
+*.xltx~
+*.xltm~
+
+# PowerPoint
+*.pptx~
+*.pptm~
+*.potx~
+*.potm~
+
+# Access
+*.accdb~
+*.accde~
+*.accdt~
+*.accdr~
+
+# Office autosave and lock files
+*.asd
+*.tmp
+*.laccdb
+*.lock
+# ----------------------------------------------------------------------------------------------------------------------
+
+
+
+# Original .gitignore continues below ----------------------------------------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
